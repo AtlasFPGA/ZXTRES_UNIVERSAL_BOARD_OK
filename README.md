@@ -13,3 +13,6 @@ Fichero de configuracion permanente CYCLONE IV:
 
 Quemado del flujo de datos para la mini_iNEP:
 ![QUEMADO_FLUJO_DATOS](https://github.com/AtlasFPGA/ZXTRES_UNIVERSAL_BOARD_OK/blob/main/FOTOS/4-quemado_contenido_memoria_spi_flash.png)
+
+Demostración del mini_iNEP:https://www.youtube.com/watch?v=7RTo4ZC2K9g
+[![REDUCCIÓN_AL_ABSURDO](https://img.youtube.com/vi/7RTo4ZC2K9g/0.jpg)](https://www.youtube.com/watch?v=7RTo4ZC2K9g)
