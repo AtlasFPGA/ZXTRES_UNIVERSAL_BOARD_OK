@@ -16,3 +16,6 @@ Quemado del flujo de datos para la mini_iNEP:
 
 Demostración del mini_iNEP:https://www.youtube.com/watch?v=7RTo4ZC2K9g
 [![REDUCCIÓN_AL_ABSURDO](https://img.youtube.com/vi/7RTo4ZC2K9g/0.jpg)](https://www.youtube.com/watch?v=7RTo4ZC2K9g)
+
+#PINEADO PLACA ZXTRES con placas QMTECH EP4CE15F23C8 y EP4CE55F23C8, ambas placas coinciden en la matriz de 484bolas:
+https://docs.google.com/spreadsheets/d/1M7CXPlwlroIaniFUIBvQ2GTJdztBzzJvbASTVabUyE8/edit?usp=sharing
